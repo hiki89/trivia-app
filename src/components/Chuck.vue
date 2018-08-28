@@ -63,3 +63,13 @@ export default {
 }
 </script>
 
+<style>
+.form-control {
+    width: 200px;
+}
+.btn {
+    margin-top: 10px;
+}
+</style>
+
+
